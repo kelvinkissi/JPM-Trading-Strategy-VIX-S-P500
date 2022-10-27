@@ -6,4 +6,4 @@ Cboe Volatility Index: “Benchmark of volatility” is the most recognized meas
 
 
 VIX buy signal has proven 100% accurate outside of recessions
-Indicator supports JPMorgan belief that equities offer upside
+Indicator supports JPMorgan's belief that equities offer upside
