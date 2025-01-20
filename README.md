@@ -1,4 +1,4 @@
-Bloomberg article: 
+_image from_ Bloomberg article: 
 
 ![](./JPMorganStrategists.png)
 
